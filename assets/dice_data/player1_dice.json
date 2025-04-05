@@ -1,0 +1,42 @@
+[
+	{
+		"faces": [
+			"Movement",
+			"Movement",
+			"SummonLevel1",
+			"SummonLevel1",
+			"SummonLevel1",
+			"SummonLevel1"
+		]
+	},
+	{
+		"faces": [
+			"Defense",
+			"Movement",
+			"SummonLevel1",
+			"SummonLevel1",
+			"SummonLevel1",
+			"SummonLevel1"
+		]
+	},
+	{
+		"faces": [
+			"Attack",
+			"Movement",
+			"SummonLevel1",
+			"SummonLevel1",
+			"SummonLevel1",
+			"SummonLevel1"
+		]
+	},
+	{
+		"faces": [
+			"Attack",
+			"Movement",
+			"SummonLevel1",
+			"SummonLevel1",
+			"SummonLevel1",
+			"SummonLevel1"
+		]
+	}
+]

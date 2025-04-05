@@ -1,0 +1,80 @@
+tangrams levels
+
+
+
+dealing damage:
+
+enemy attacks
+
+
+
+abilities
+shift a row
+
+
+have dice pool to choose from  (say 6 total)
+
+predetermine order of them? then throw the next 3 (serving as a queue)
+each turn throw 3 (maybe 2?) of them and put back in the queue
+(maybe have ability to move position of die still in queue)
+
+
+
+DDM issues:
+can spam level 1 monsters and block out opponent
+AI was not good
+
+
+ability ideas
+send one time spirit to move and attack in player's place
+keep moving in same direction like thunder ball
+ranged attack
+shield (turn ends, reduces damage)
+
+
+most turn based tactics games:
+have perma death
+turn based
+move certain number of spaces to take down enemy
+
+
+allow converting enemy tiles to your own
+
+some or all levels like minecraft sculk
+get from point A to B while all the area around B has infectious blocks that spread to your own
+
+have terrain that blocks movement
+
+
+have resources on map that players want to race to
+have question mark blocks with unknown resource
+
+wall between sides until turn 5
+
+
+real time mode
+instead of attack center of opponent's side, they have one unit that runs around
+goal defeat all preplaced units on board
+
+
+
+splatoon game
+asymmetric board
+
+
+apply status effect
+
+
+breakable obstacle
+replace with empty space
+walls
+
+environemental effect
+destroy spot on grid
+game of life tiles
+
+5 dice
+
+enclosing area like Go game captures it
+
+make board require balance like yali

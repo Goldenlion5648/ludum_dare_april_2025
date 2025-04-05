@@ -1,0 +1,2251 @@
+[
+	[
+		{
+			"position": [
+				0.00000000,
+				0.50000000,
+				0.00000000
+			],
+			"owner": "PlayerOne",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				1.00000000,
+				0.50000000,
+				0.00000000
+			],
+			"owner": "PlayerOne",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				2.00000000,
+				0.50000000,
+				0.00000000
+			],
+			"owner": "PlayerOne",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				3.00000000,
+				0.50000000,
+				0.00000000
+			],
+			"owner": "PlayerOne",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				4.00000000,
+				0.50000000,
+				0.00000000
+			],
+			"owner": "PlayerOne",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				5.00000000,
+				0.50000000,
+				0.00000000
+			],
+			"owner": "PlayerOne",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				6.00000000,
+				0.50000000,
+				0.00000000
+			],
+			"owner": "PlayerOne",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				7.00000000,
+				0.50000000,
+				0.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				8.00000000,
+				0.50000000,
+				0.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				9.00000000,
+				0.50000000,
+				0.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				10.00000000,
+				0.50000000,
+				0.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				11.00000000,
+				0.50000000,
+				0.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				12.00000000,
+				0.50000000,
+				0.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				13.00000000,
+				0.50000000,
+				0.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				14.00000000,
+				0.50000000,
+				0.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				15.00000000,
+				0.50000000,
+				0.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				16.00000000,
+				0.50000000,
+				0.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				17.00000000,
+				0.50000000,
+				0.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				18.00000000,
+				0.50000000,
+				0.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		}
+	],
+	[
+		{
+			"position": [
+				0.00000000,
+				0.50000000,
+				1.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				1.00000000,
+				0.50000000,
+				1.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				2.00000000,
+				0.50000000,
+				1.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				3.00000000,
+				0.50000000,
+				1.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				4.00000000,
+				0.50000000,
+				1.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				5.00000000,
+				0.50000000,
+				1.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				6.00000000,
+				0.50000000,
+				1.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				7.00000000,
+				0.50000000,
+				1.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				8.00000000,
+				0.50000000,
+				1.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				9.00000000,
+				0.50000000,
+				1.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				10.00000000,
+				0.50000000,
+				1.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				11.00000000,
+				0.50000000,
+				1.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				12.00000000,
+				0.50000000,
+				1.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				13.00000000,
+				0.50000000,
+				1.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				14.00000000,
+				0.50000000,
+				1.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				15.00000000,
+				0.50000000,
+				1.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				16.00000000,
+				0.50000000,
+				1.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				17.00000000,
+				0.50000000,
+				1.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				18.00000000,
+				0.50000000,
+				1.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		}
+	],
+	[
+		{
+			"position": [
+				0.00000000,
+				0.50000000,
+				2.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				1.00000000,
+				0.50000000,
+				2.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				2.00000000,
+				0.50000000,
+				2.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				3.00000000,
+				0.50000000,
+				2.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				4.00000000,
+				0.50000000,
+				2.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				5.00000000,
+				0.50000000,
+				2.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				6.00000000,
+				0.50000000,
+				2.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				7.00000000,
+				0.50000000,
+				2.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				8.00000000,
+				0.50000000,
+				2.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				9.00000000,
+				0.50000000,
+				2.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				10.00000000,
+				0.50000000,
+				2.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				11.00000000,
+				0.50000000,
+				2.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				12.00000000,
+				0.50000000,
+				2.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				13.00000000,
+				0.50000000,
+				2.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				14.00000000,
+				0.50000000,
+				2.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				15.00000000,
+				0.50000000,
+				2.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				16.00000000,
+				0.50000000,
+				2.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				17.00000000,
+				0.50000000,
+				2.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				18.00000000,
+				0.50000000,
+				2.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		}
+	],
+	[
+		{
+			"position": [
+				0.00000000,
+				0.50000000,
+				3.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				1.00000000,
+				0.50000000,
+				3.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				2.00000000,
+				0.50000000,
+				3.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				3.00000000,
+				0.50000000,
+				3.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				4.00000000,
+				0.50000000,
+				3.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				5.00000000,
+				0.50000000,
+				3.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				6.00000000,
+				0.50000000,
+				3.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				7.00000000,
+				0.50000000,
+				3.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				8.00000000,
+				0.50000000,
+				3.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				9.00000000,
+				0.50000000,
+				3.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				10.00000000,
+				0.50000000,
+				3.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				11.00000000,
+				0.50000000,
+				3.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				12.00000000,
+				0.50000000,
+				3.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				13.00000000,
+				0.50000000,
+				3.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				14.00000000,
+				0.50000000,
+				3.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				15.00000000,
+				0.50000000,
+				3.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				16.00000000,
+				0.50000000,
+				3.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				17.00000000,
+				0.50000000,
+				3.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				18.00000000,
+				0.50000000,
+				3.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		}
+	],
+	[
+		{
+			"position": [
+				0.00000000,
+				0.50000000,
+				4.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				1.00000000,
+				0.50000000,
+				4.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				2.00000000,
+				0.50000000,
+				4.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				3.00000000,
+				0.50000000,
+				4.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				4.00000000,
+				0.50000000,
+				4.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				5.00000000,
+				0.50000000,
+				4.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				6.00000000,
+				0.50000000,
+				4.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				7.00000000,
+				0.50000000,
+				4.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				8.00000000,
+				0.50000000,
+				4.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				9.00000000,
+				0.50000000,
+				4.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				10.00000000,
+				0.50000000,
+				4.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				11.00000000,
+				0.50000000,
+				4.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				12.00000000,
+				0.50000000,
+				4.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				13.00000000,
+				0.50000000,
+				4.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				14.00000000,
+				0.50000000,
+				4.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				15.00000000,
+				0.50000000,
+				4.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				16.00000000,
+				0.50000000,
+				4.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				17.00000000,
+				0.50000000,
+				4.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				18.00000000,
+				0.50000000,
+				4.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		}
+	],
+	[
+		{
+			"position": [
+				0.00000000,
+				0.50000000,
+				5.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				1.00000000,
+				0.50000000,
+				5.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				2.00000000,
+				0.50000000,
+				5.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				3.00000000,
+				0.50000000,
+				5.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				4.00000000,
+				0.50000000,
+				5.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				5.00000000,
+				0.50000000,
+				5.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				6.00000000,
+				0.50000000,
+				5.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				7.00000000,
+				0.50000000,
+				5.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				8.00000000,
+				0.50000000,
+				5.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				9.00000000,
+				0.50000000,
+				5.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				10.00000000,
+				0.50000000,
+				5.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				11.00000000,
+				0.50000000,
+				5.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				12.00000000,
+				0.50000000,
+				5.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				13.00000000,
+				0.50000000,
+				5.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				14.00000000,
+				0.50000000,
+				5.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				15.00000000,
+				0.50000000,
+				5.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				16.00000000,
+				0.50000000,
+				5.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				17.00000000,
+				0.50000000,
+				5.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				18.00000000,
+				0.50000000,
+				5.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		}
+	],
+	[
+		{
+			"position": [
+				0.00000000,
+				0.50000000,
+				6.00000000
+			],
+			"owner": "PlayerOne",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				1.00000000,
+				0.50000000,
+				6.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				2.00000000,
+				0.50000000,
+				6.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				3.00000000,
+				0.50000000,
+				6.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				4.00000000,
+				0.50000000,
+				6.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				5.00000000,
+				0.50000000,
+				6.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				6.00000000,
+				0.50000000,
+				6.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				7.00000000,
+				0.50000000,
+				6.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				8.00000000,
+				0.50000000,
+				6.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				9.00000000,
+				0.50000000,
+				6.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				10.00000000,
+				0.50000000,
+				6.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				11.00000000,
+				0.50000000,
+				6.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				12.00000000,
+				0.50000000,
+				6.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				13.00000000,
+				0.50000000,
+				6.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				14.00000000,
+				0.50000000,
+				6.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				15.00000000,
+				0.50000000,
+				6.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				16.00000000,
+				0.50000000,
+				6.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				17.00000000,
+				0.50000000,
+				6.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				18.00000000,
+				0.50000000,
+				6.00000000
+			],
+			"owner": "PlayerTwo",
+			"is_hovered": false
+		}
+	],
+	[
+		{
+			"position": [
+				0.00000000,
+				0.50000000,
+				7.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				1.00000000,
+				0.50000000,
+				7.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				2.00000000,
+				0.50000000,
+				7.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				3.00000000,
+				0.50000000,
+				7.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				4.00000000,
+				0.50000000,
+				7.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				5.00000000,
+				0.50000000,
+				7.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				6.00000000,
+				0.50000000,
+				7.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				7.00000000,
+				0.50000000,
+				7.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				8.00000000,
+				0.50000000,
+				7.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				9.00000000,
+				0.50000000,
+				7.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				10.00000000,
+				0.50000000,
+				7.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				11.00000000,
+				0.50000000,
+				7.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				12.00000000,
+				0.50000000,
+				7.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				13.00000000,
+				0.50000000,
+				7.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				14.00000000,
+				0.50000000,
+				7.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				15.00000000,
+				0.50000000,
+				7.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				16.00000000,
+				0.50000000,
+				7.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				17.00000000,
+				0.50000000,
+				7.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				18.00000000,
+				0.50000000,
+				7.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		}
+	],
+	[
+		{
+			"position": [
+				0.00000000,
+				0.50000000,
+				8.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				1.00000000,
+				0.50000000,
+				8.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				2.00000000,
+				0.50000000,
+				8.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				3.00000000,
+				0.50000000,
+				8.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				4.00000000,
+				0.50000000,
+				8.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				5.00000000,
+				0.50000000,
+				8.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				6.00000000,
+				0.50000000,
+				8.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				7.00000000,
+				0.50000000,
+				8.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				8.00000000,
+				0.50000000,
+				8.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				9.00000000,
+				0.50000000,
+				8.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				10.00000000,
+				0.50000000,
+				8.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				11.00000000,
+				0.50000000,
+				8.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				12.00000000,
+				0.50000000,
+				8.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				13.00000000,
+				0.50000000,
+				8.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				14.00000000,
+				0.50000000,
+				8.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				15.00000000,
+				0.50000000,
+				8.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				16.00000000,
+				0.50000000,
+				8.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				17.00000000,
+				0.50000000,
+				8.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				18.00000000,
+				0.50000000,
+				8.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		}
+	],
+	[
+		{
+			"position": [
+				0.00000000,
+				0.50000000,
+				9.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				1.00000000,
+				0.50000000,
+				9.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				2.00000000,
+				0.50000000,
+				9.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				3.00000000,
+				0.50000000,
+				9.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				4.00000000,
+				0.50000000,
+				9.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				5.00000000,
+				0.50000000,
+				9.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				6.00000000,
+				0.50000000,
+				9.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				7.00000000,
+				0.50000000,
+				9.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				8.00000000,
+				0.50000000,
+				9.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				9.00000000,
+				0.50000000,
+				9.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				10.00000000,
+				0.50000000,
+				9.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				11.00000000,
+				0.50000000,
+				9.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				12.00000000,
+				0.50000000,
+				9.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				13.00000000,
+				0.50000000,
+				9.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				14.00000000,
+				0.50000000,
+				9.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				15.00000000,
+				0.50000000,
+				9.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				16.00000000,
+				0.50000000,
+				9.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				17.00000000,
+				0.50000000,
+				9.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				18.00000000,
+				0.50000000,
+				9.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		}
+	],
+	[
+		{
+			"position": [
+				0.00000000,
+				0.50000000,
+				10.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				1.00000000,
+				0.50000000,
+				10.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				2.00000000,
+				0.50000000,
+				10.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				3.00000000,
+				0.50000000,
+				10.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				4.00000000,
+				0.50000000,
+				10.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				5.00000000,
+				0.50000000,
+				10.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				6.00000000,
+				0.50000000,
+				10.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				7.00000000,
+				0.50000000,
+				10.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				8.00000000,
+				0.50000000,
+				10.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				9.00000000,
+				0.50000000,
+				10.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				10.00000000,
+				0.50000000,
+				10.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				11.00000000,
+				0.50000000,
+				10.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				12.00000000,
+				0.50000000,
+				10.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				13.00000000,
+				0.50000000,
+				10.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				14.00000000,
+				0.50000000,
+				10.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				15.00000000,
+				0.50000000,
+				10.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				16.00000000,
+				0.50000000,
+				10.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				17.00000000,
+				0.50000000,
+				10.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				18.00000000,
+				0.50000000,
+				10.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		}
+	],
+	[
+		{
+			"position": [
+				0.00000000,
+				0.50000000,
+				11.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				1.00000000,
+				0.50000000,
+				11.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				2.00000000,
+				0.50000000,
+				11.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				3.00000000,
+				0.50000000,
+				11.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				4.00000000,
+				0.50000000,
+				11.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				5.00000000,
+				0.50000000,
+				11.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				6.00000000,
+				0.50000000,
+				11.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				7.00000000,
+				0.50000000,
+				11.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				8.00000000,
+				0.50000000,
+				11.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				9.00000000,
+				0.50000000,
+				11.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				10.00000000,
+				0.50000000,
+				11.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				11.00000000,
+				0.50000000,
+				11.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				12.00000000,
+				0.50000000,
+				11.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				13.00000000,
+				0.50000000,
+				11.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				14.00000000,
+				0.50000000,
+				11.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				15.00000000,
+				0.50000000,
+				11.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				16.00000000,
+				0.50000000,
+				11.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				17.00000000,
+				0.50000000,
+				11.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				18.00000000,
+				0.50000000,
+				11.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		}
+	],
+	[
+		{
+			"position": [
+				0.00000000,
+				0.50000000,
+				12.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				1.00000000,
+				0.50000000,
+				12.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				2.00000000,
+				0.50000000,
+				12.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				3.00000000,
+				0.50000000,
+				12.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				4.00000000,
+				0.50000000,
+				12.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				5.00000000,
+				0.50000000,
+				12.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				6.00000000,
+				0.50000000,
+				12.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				7.00000000,
+				0.50000000,
+				12.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				8.00000000,
+				0.50000000,
+				12.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				9.00000000,
+				0.50000000,
+				12.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				10.00000000,
+				0.50000000,
+				12.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				11.00000000,
+				0.50000000,
+				12.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				12.00000000,
+				0.50000000,
+				12.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				13.00000000,
+				0.50000000,
+				12.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				14.00000000,
+				0.50000000,
+				12.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				15.00000000,
+				0.50000000,
+				12.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				16.00000000,
+				0.50000000,
+				12.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				17.00000000,
+				0.50000000,
+				12.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		},
+		{
+			"position": [
+				18.00000000,
+				0.50000000,
+				12.00000000
+			],
+			"owner": "None",
+			"is_hovered": false
+		}
+	]
+]

@@ -1,0 +1,18 @@
+
+don't count mouse clicks on prompt during the frame the popup shows
+
+==========MODE IDEAS==========
+wall mode
+island mode
+tetris mode
+
+AI tile placing
+AI movement
+
+
+
+models
+crest art
+change score function to block off on sides
+
+
